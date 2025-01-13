@@ -1,1 +1,0 @@
-savedcmd_/home/stzhang/A_my_code/aa/myfs/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/stzhang/A_my_code/aa/myfs/Module.symvers -T /home/stzhang/A_my_code/aa/myfs/modules.order -i Module.symvers -e 
