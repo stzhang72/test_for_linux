@@ -1,0 +1,1 @@
+savedcmd_/home/stzhang/A_my_code/aa/myfs/myfs.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/stzhang/A_my_code/aa/myfs/myfs.ko /home/stzhang/A_my_code/aa/myfs/myfs.o /home/stzhang/A_my_code/aa/myfs/myfs.mod.o
